@@ -13,6 +13,8 @@ ForoHub es una API REST CRUD que permite la gestión de tópicos de discusión. 
 
 Los datos se almacenan en una base de datos MySQL y se manejan mediante Flyway Migration para el control de versiones. Se requiere Postman o Insomnia para probar las solicitudes HTTP en formato JSON.
 
+## ✅ DEMOSTRACION
+
 ## 🔨 ESTADO DEL PROYECTO
 
 🚧 PROYECTO EN CONSTRUCCIÓN.
