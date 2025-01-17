@@ -1,6 +1,5 @@
 # 🚀 FOROHUB
-
-
+![portada para un foro de discusion que lleve el titulo _FORO HUB_ que sea conbinaciones azuladas y un estilo muy sobrio y elegante](https://github.com/user-attachments/assets/4e3a45cb-f2d2-4a7b-a78e-3a8fb7abd93c)
 
 ## 📄 DESCRIPCIÓN DEL PROYECTO
 
