@@ -30,7 +30,7 @@ Los datos se almacenan en una base de datos MySQL y se manejan mediante Flyway M
 
 ## 🚀 USO DEL PROYECTO
 
-Para utilizar la API, configura la base de datos en `application.properties` con:
+Para utilizar la API, descarga los archivos. Debes tener tecnologias basicas como un IDE, una base de datos(MySQL), una aplicacion que simule un frontend(imsomnia). Debes configurar la base de datos en `application.properties` si usas Intellij IDEA con:
 
 ```properties
 DATASOURCE_URL=jdbc:mysql://localhost:tu_base_de_datos
